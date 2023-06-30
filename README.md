@@ -44,9 +44,7 @@ This is a an app built using `Kotlin` .</p>
 https://user-images.githubusercontent.com/111181465/217192531-58a36cb2-d710-4c17-b79b-c32f1d89741b.mp4
 
 ---
-<br>
-<h2 align="center">Open Source programmes this repo has been part of</h2>
-<a href="https://github.com/aniketsen123/Mvvm_newsapp"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+
 
 
 
