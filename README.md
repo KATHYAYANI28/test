@@ -1,9 +1,7 @@
 # <p align="center">𝑴𝑽𝑽𝑴 𝑵𝒐𝒕𝒆𝒔𝑨𝒑𝒑</P>
 <div align="center">
 
-![Contributors](https://img.shields.io/github/contributors/aniketsen123/Mvvm_newsapp?style=for-the-badge)
-  ![Forks](https://img.shields.io/github/forks/aniketsen123/Mvvm_newsapp?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/aniketsen123/Mvvm_newsapp?style=for-the-badge)
+
 ![License](https://img.shields.io/github/license/aniketsen123/Mvvm_newsapp?style=for-the-badge)
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <!-- TABLE OF CONTENTS --> 
@@ -51,7 +49,5 @@ https://user-images.githubusercontent.com/111181465/217192531-58a36cb2-d710-4c17
 <a href="https://github.com/aniketsen123/Mvvm_newsapp"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/80174214/161392790-7895ef9b-bc4d-41ee-a17a-395e3773ac19.png" width="250px">
-</div>
+
 
