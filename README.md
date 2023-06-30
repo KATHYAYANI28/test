@@ -55,20 +55,3 @@ https://user-images.githubusercontent.com/111181465/217192531-58a36cb2-d710-4c17
 <img src="https://user-images.githubusercontent.com/80174214/161392790-7895ef9b-bc4d-41ee-a17a-395e3773ac19.png" width="250px">
 </div>
 
-<div align="center">
-    <a href="https://jwoc.tech/">JGEC Winter of Code</a>
-
-</div>
-<br>
-<br>
-<h2 align="center">Contribution Guidelines</h2>
-
-<p align="center">                    We would ❤️ for you to contribute to Mvvm_notesapp and help make it better by adding your ideas or by making current one better! We want contributing to be fun, enjoyable, and educational for everyone. All contributions are welcome, including issues as well as updates.                         </p>
-
-<br>
-
-<br>
-###  How to Start?  📌
-
-If you have a idea of any Mvvm_notessapp you want to build just open an appropriate issue regarding this, we will discuss and assign you that issue. In case you are confused and have queries, just ask in the discord,will help you get along and build!
-<br>
